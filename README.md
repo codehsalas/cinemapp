@@ -1,4 +1,4 @@
-echo "# Cinemapp 🎬
+Cinemapp 🎬
 
 Una aplicación móvil desarrollada con React Native y TypeScript que te permite explorar películas y acceder a la cámara de tu dispositivo.
 
@@ -135,4 +135,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo \`LICENSE\` para más d
 ---
 
 ⭐ Si te gusta este proyecto, no olvides darle una estrella en GitHub!
-" > README.md
